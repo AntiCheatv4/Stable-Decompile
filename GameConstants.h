@@ -93,9 +93,9 @@ const int           STORESCREEN_PAGESTRING_Y = 500;
 #define _ALLOW_RESOURCE_PACKS
 
 // Unused or Restored
-#define _HAS_BLOOM_AND_DOOM_CONTENTS
-#define _HAS_EXTENDED_MINIGAMES
-#define _HAS_UNUSED_ACHIEVEMENTS
+// #define _HAS_BLOOM_AND_DOOM_CONTENTS
+// #define _HAS_EXTENDED_MINIGAMES
+// #define _HAS_UNUSED_ACHIEVEMENTS
 
 //Ported from other editions
 #define _CONSOLE_MINIGAMES
@@ -111,10 +111,10 @@ const int           STORESCREEN_PAGESTRING_Y = 500;
 #define _HAS_KERNELPULT_BUTTER_IDLE
 
 // Quirky stuff
-#define _HAS_ROOF_SLOPE_ANGLE
+// #define _HAS_ROOF_SLOPE_ANGLE
 
 // Rebalancing
-#define _PIERCING_CACTUS
-#define _SPLASH_SNOWPEA
+// #define _PIERCING_CACTUS
+// #define _SPLASH_SNOWPEA
 
 #include "ConstEnums.h" // Include the enums at the end to properly setup the entries related to the defines
